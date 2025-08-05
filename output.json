@@ -1,0 +1,13 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "gender": "Male",
+  "dob": "1990-01-01",
+  "dlNumber": "D1234567",
+  "phone": "555-123-4567",
+  "street": "123 Main St",
+  "city": "Haddon Heights",
+  "state": "NJ",
+  "zipcode": "08035",
+  "email": "john.doe@example.com"
+}
